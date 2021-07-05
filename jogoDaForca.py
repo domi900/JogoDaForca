@@ -42,9 +42,9 @@ indice = randint(0, len(palavras) - 1)
 palavra_escolhida = palavras[indice]
 dica_da_palavra = dicas[indice]
 
-imagens = (r"python/images/Img0.png", r"python/images/Img1.png", r"python/images/Img2.png",
-        r"python/images/Img3.png", r"python/images/Img4.png",
-         r"python/images/Img5.png", r"python/images/Img6.png" )
+imagens = (r"n/images/Img0.png", r"/images/Img1.png", r"/images/Img2.png",
+        r"/images/Img3.png", r"/images/Img4.png",
+         r"/images/Img5.png", r"/images/Img6.png" )
 
 cont = 0
 image = imagens[cont]
